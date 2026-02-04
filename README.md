@@ -17,9 +17,9 @@ Developed for **Université Toulouse 1 Capitole**, **ManageCrisis** is a web-bas
 **Data Processing & ML**: Python (Pandas), Scikit-learn (Linear Regression), Matplotlib, and Seaborn.
 
 ## Authors/Collaborators
-**Arsh Beg** 
-**Sumaiya Sultana** 
-**Ayishwarya Laksumi G** 
+**Arsh Beg,** 
+**Sumaiya Sultana,** 
+**Ayishwarya Laksumi G,** 
 **Guidance**: Prof. Chihab Hanachi
 
 ---
